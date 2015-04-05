@@ -19,5 +19,5 @@ PKGBUILD is designed for working with [libreoffice-fresh-rpm](https://aur.archli
 
 **SCREENSHOTS**
 
-![Light](https://github.com/FadeMind/libreoffice-fresh-kalahari/images_faenza.png)
-![Dark](https://github.com/FadeMind/libreoffice-fresh-kalahari/images_faenza_dark.png)
+![Light](https://raw.githubusercontent.com/FadeMind/libreoffice-fresh-kalahari/master/images_faenza.png)
+![Dark](https://raw.githubusercontent.com/FadeMind/libreoffice-fresh-kalahari/master/images_faenza_dark.png)
