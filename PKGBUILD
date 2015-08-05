@@ -18,7 +18,7 @@ sha256sums=('7ded91512511ed104ac9562894fbdc8b33a6b3bd230759045de1eee0fe4f598d'
             'fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85')
 
 package() {
-  install -D -m644 ${srcdir}/images_faenza.zip	  ${pkgdir}/opt/libreoffice$_lover/share/config/images_faenza.zip
+  install -D -m644 ${srcdir}/images_faenza.zip	    ${pkgdir}/opt/libreoffice$_lover/share/config/images_faenza.zip
   install -D -m644 ${srcdir}/images_faenza_dark.zip ${pkgdir}/opt/libreoffice$_lover/share/config/images_faenza_dark.zip
   install -D -m644 ${srcdir}/LICENSE ${pkgdir}/usr/share/licenses/${pkgname}/LICENSE
 }

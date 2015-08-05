@@ -1,6 +1,6 @@
 **libreoffice-fresh-kalahari**
 ------------------------------
-**Faenza like icon theme for LibreOffice 4.4.x series**
+**Faenza like icon theme for LibreOffice**
 
 **CREDITS**
 
@@ -13,9 +13,9 @@ Mariano Ramon Gaudiners
 
 **ARCH LINUX INSTALLATION**
 
-PKGBUILD is designed for working with [libreoffice-fresh-rpm](https://aur.archlinux.org/packages/libreoffice-fresh-rpm/) only.
+PKGBUILD is designed for working with [libreoffice-fresh-rpm](https://aur4.archlinux.org/packages/libreoffice-fresh-rpm/) only.
 
-    yaourt -S libreoffice-fresh-kalahari
+    yaourt4 -S libreoffice-fresh-kalahari
 
 **SCREENSHOTS**
 
