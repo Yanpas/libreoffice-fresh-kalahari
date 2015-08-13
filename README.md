@@ -15,7 +15,7 @@ Mariano Ramon Gaudiners
 
 PKGBUILD is designed for working with [libreoffice-fresh-rpm](https://aur4.archlinux.org/packages/libreoffice-fresh-rpm/) only.
 
-    yaourt4 -S libreoffice-fresh-kalahari
+    yaourt -S libreoffice-fresh-kalahari
 
 **SCREENSHOTS**
 
